@@ -1,0 +1,6 @@
+{
+  "name": "SOL Target Price & Probability Forecast",
+  "description": "Nền tảng phân tích kỹ thuật và định lượng SOL/USDT, tính toán xác suất chạm giá mục tiêu, đối chiếu dữ liệu lịch sử thực tế Binance và dự báo thời gian chạm mốc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
